@@ -1,10 +1,16 @@
 _repo: Humanitarian-Philosophy-4th-Edition_48589
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48589-h/images/cover.jpg
 creator:
   author:
     agent_name: Kusel, Emil Edward
     gutenberg_agent_id: '44868'
     url: http://www.gutenberg.org/2009/agents/44868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48589#Humanitarian-Philosophy-4th-Edition
 gutenberg_issued: '2015-03-26'
 gutenberg_type: Text
 identifiers:
